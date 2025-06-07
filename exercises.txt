@@ -7,3 +7,5 @@
 
 cd /e/Trainig/SoftUni/Git/exercises/Git_Branching
 git init
+
+next
