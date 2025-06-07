@@ -1,0 +1,9 @@
+# Exercise: Git Branching
+
+# Problem 1: Verifying and Configuring SSH for Git
+
+
+
+
+cd /e/Trainig/SoftUni/Git/exercises/Git_Branching
+git init
